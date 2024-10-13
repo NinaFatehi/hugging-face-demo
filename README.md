@@ -2,8 +2,6 @@
 ---
 title: Demo
 
-emoji: {{emoji}}
-
 colorFrom: pink
 
 colorTo: pink
